@@ -144,6 +144,11 @@ h5 {
   width: 7rem;
 }
 
+.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
 .new-task-form input[type="submit"]:hover {
   filter: brightness(1.2);
 }
